@@ -1,0 +1,1 @@
+# Write-a-C-program-to-simulate-producer-consumer-problem-using-semaphores
